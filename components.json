@@ -329,6 +329,10 @@
 			"title": "Dhall",
 			"owner": "RunDevelopment"
 		},
+		"dial": {
+			"title": "Dial",
+			"owner": "pylover"
+		},
 		"diff": {
 			"title": "Diff",
 			"owner": "uranusjr"
